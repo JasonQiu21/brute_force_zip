@@ -4,4 +4,4 @@
 A program that uses python to brute force a password-protected zip file given a wordlist.
 
 ## Example
-Here, we have a zip called `myfile.zip` containing the contents of `files/` with password `pass123`. We pass that and wordlist `rockyou(abridged).txt` and the script extracts the file, and shows what password it used to get it.
+Here, we have a zip called `myfile.zip` containing the contents of `files/` with password `pass123`. We pass that and wordlist `rockyou(abridged).txt` and the script extracts the file, and shows what password it used to get it. An Asciinema recording called `demo.cast` is also provided.
