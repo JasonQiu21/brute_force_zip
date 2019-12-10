@@ -1,0 +1,3 @@
+this is a text file.
+there is text in this text file.
+i am going to zip this text file up with an image.
